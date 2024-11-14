@@ -1,4 +1,2 @@
 ### munich_data_repository
-This repository gives the needed data to conduct Winter 2014 simulation with the 
-street-network model MUNICH : meteo and background data are situated in the directory
-*input_munich_data* and emission data in the directory *emission_data* 
+This repository provides the necessary data to conduct the Winter 2014 simulation with the street-network model MUNICH. The meteorological and background data are located in the *input_munich_data* directory, while the emission data can be found in the *emission_data* directory.
